@@ -1,0 +1,28 @@
+Project Title
+ Home Onwer estimate
+
+1- This Project is to calculate the price of painting a house, sanding a hardwood floor, 
+clean a pool,fence and all services that can cbe calculate using sq foot.The idea is to give the home owner 
+the rought idea of price.
+Residential/Commercial
+Interior Painting
+How many Rooms?
+Exterior
+
+Both
+When do You need painters?
+Immediately
+Weeks
+Months
+
+2-Expected List of Features:
+Select Services
+add extra 
+time of duration to complete the project
+3-Market Survey:
+The Angi and HomeAdvisor, provide review, location, but it does not give a quote online
+it ask you to all information, instead of providing a quote
+4- References
+https://www.angi.com/
+https://www.homeadvisor.com/
+https://www.quoterunner.com/
