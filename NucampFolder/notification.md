@@ -30,3 +30,5 @@ and include the  link below to the file
  https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free
  https://www.keycdn.com/blog/icon-fonts-vs-svgs
 
+t need to instal this package on the command line
+npm install bootstrap-social@5.1.1
