@@ -20,3 +20,13 @@ npm install bootstrap@4.5.2
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css" />
 # .gitignore
 node_modules
+
+For Icons you will need to instal
+npm install font-awesome@4.7.0
+and include the  link below to the file
+ <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css" />
+ https://fontawesome.com/v4.7/icons/
+ https://fontawesome.com/v4.7/
+ https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free
+ https://www.keycdn.com/blog/icon-fonts-vs-svgs
+
